@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+    //Este es el programa para calcular las raices x1 y x2//
     int main() {
     double a, b, c; cin >> a >> b >> c;
     double d=pow(b,2)-(4*a*c);
